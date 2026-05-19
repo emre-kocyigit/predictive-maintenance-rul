@@ -21,8 +21,4 @@ Unsupervised anomaly detection using LSTM Autoencoder.
 
 ## Dataset
 NASA CMAPSS — https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
-Place files in /data folder (not tracked by git).
-
-text
-Built to bridge my background in ML-based detection systems with
-predictive maintenance methodology — same rigour, new domain.
+Place files in /data folder (not d by git).
